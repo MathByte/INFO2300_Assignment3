@@ -50,12 +50,12 @@ otherwise, simply download or clone the repo and just double click on index.html
 # To be able look at the code of version one, please follow the instrucctions:
 > 1. Click on 12 commits link on the right side of the picture.
 > <p align="center">
-  <img src="https://github.com/MathByte/INFO2300_Assignment3/blob/main/screenshot1.png" alt="Screenshot"/>
-</p>
+>  <img src="https://github.com/MathByte/INFO2300_Assignment3/blob/main/screenshot1.png" alt="Screenshot"/>
+></p>
 > 2. you will see 
-<p align="center">
-  <img src="https://github.com/MathByte/INFO2300_Assignment3/blob/main/screenshot2.png" alt="Screenshot"/>
-</p>
+><p align="center">
+>  <img src="https://github.com/MathByte/INFO2300_Assignment3/blob/main/screenshot2.png" alt="Screenshot"/>
+></p>
 > These are the commits made during the development of version 1.0.
 > Please click on the "<>" sign located on the right-hand side of the picture.
 > The code will be displayed.
