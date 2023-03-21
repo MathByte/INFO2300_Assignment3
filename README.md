@@ -34,7 +34,7 @@ Version V1.1
 
 
 # For Developers
->## Guidelines
+## Guidelines
  >you are absolutely free to edit and modify the code the code of HTML and Java.
  > Keep the cookies and session storage objects being kept in the user's browser.
 > You may change any images that you wish, just do not delete the old ones.
@@ -70,6 +70,11 @@ Version V1.1
 > Any found issues can be submitted under the [Issues tab](https://github.com/MathByte/INFO2300_Assignment3/issues)
 > We Found Some Issue in the code that best score and current score are not updating. so We tried to Fix that by assignenin SIue tracker for it 
 > The link for that Issue is [issue #1](https://github.com/MathByte/INFO2300_Assignment3/issues/1#issue-1633141946)
+>
+>As you can see in the picture dellow how there is a commit for fiding the error, and fixing it.
+><p align="center">
+>  <img src="https://github.com/MathByte/INFO2300_Assignment3/blob/main/screenshot4.png" alt="Screenshot"/>
+></p>
 
 
 # WIKI
