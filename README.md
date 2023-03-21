@@ -24,18 +24,18 @@ Version V1.1
 
   # How to \'RUN\' the App
 > The link that is given to you on the assignemtn submission html file.  By just clicking the link you can play the game.
-otherwise, simply download or clone the repo and just double click on index.html file so you can run it on any kind of browser.
+>otherwise, simply download or clone the repo and just double click on index.html file so you can run it on any kind of browser.
 
 
   # Repository
- ## If you wish to navigate my repo
- feel free to navigate through the directory
+ >## If you wish to navigate my repo
+ >feel free to navigate through the directory
 
 
 
 # For Developers
-## Guidelines
- you are absolutely free to edit and modify the code the code of HTML and Java.
+>## Guidelines
+ >you are absolutely free to edit and modify the code the code of HTML and Java.
  > Keep the cookies and session storage objects being kept in the user's browser.
 > You may change any images that you wish, just do not delete the old ones.
 > All pull requests and commits will first have to be approved by a repo moderator.
