@@ -56,7 +56,7 @@ otherwise, simply download or clone the repo and just double click on index.html
 > Any found issues can be submitted under the [Issues tab](https://github.com/MathByte/INFO2300_Assignment3/issues)
 
 > We Found Some Issue in the code that best score and current score are not updating. so We tried to Fix that by assignenin SIue tracker for it 
-
+> The link for that Issue is [issue #1](https://github.com/MathByte/INFO2300_Assignment3/issues/1#issue-1633141946)
 
 
 # WIKI
