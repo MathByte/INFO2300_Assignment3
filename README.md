@@ -1,6 +1,6 @@
 # Khachig Kerbabian____INFO2300_Assignment3
 # 2048 puzzle game
-
+Version V1.1
 
 
  # ABOUT
@@ -27,7 +27,31 @@
 otherwise, simply download or clone the repo and just double click on index.html file so you can run it on any kind of browser.
 
 
+  # Repository
+ ## If you wish to navigate my repo
+ feel free to navigate through the directory
+
+
+
+
+
+
+# For Developers
+## Guidelines
+ you are absolutely free to edit and modify the code the code of HTML and Java.
+ > Keep the cookies and session storage objects being kept in the user's browser.
+> You may change any images that you wish, just do not delete the old ones.
+> All pull requests and commits will first have to be approved by a repo moderator.
+
+## Testing
+> Testing can be done using Selenium or NUnit.
+> If using NUnit, ensure the program code has Dependency Injection set up in order to test Cotrollers.
+> Any found issues can be submitted under the [Issues tab](https://github.com/MathByte/INFO2300_Assignment3/issues)
+
+
 
 # WIKI
 > Click [Wiki](https://github.com/MathByte/INFO2300_Assignment3/wiki) to find the Wiki\'s for this repo
 
+## License
+2048 is licensed under the [GNU license.](https://github.com/MathByte/INFO2300_Assignment3/blob/master/LICENSE.txt)
