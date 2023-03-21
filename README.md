@@ -47,6 +47,19 @@ otherwise, simply download or clone the repo and just double click on index.html
 ## Futures of Version 1.1
 >We have added movements and animations to the game, enhancing the player's experience. Additionally, we have implemented a local storage feature to prevent the >highest score from resetting to zero when the page is refreshed or reopened.
 
+# To be able look at the code of version one, please follow the instrucctions:
+> 1. Click on 12 commits link on the right side of the picture.
+> <p align="center">
+  <img src="https://github.com/MathByte/INFO2300_Assignment3/blob/main/screenshot1.png" alt="Screenshot"/>
+</p>
+> 2. you will see 
+<p align="center">
+  <img src="https://github.com/MathByte/INFO2300_Assignment3/blob/main/screenshot2.png" alt="Screenshot"/>
+</p>
+> These are the commits made during the development of version 1.0.
+> Please click on the "<>" sign located on the right-hand side of the picture.
+> The code will be displayed.
+
 
 ## Testing
 > Testing can be done using Selenium or NUnit.
