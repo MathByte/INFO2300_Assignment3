@@ -1,6 +1,9 @@
 # Khachig Kerbabian____INFO2300_Assignment3
 # 2048 puzzle game
 Version V1.1
+# Hint
+> To be able to switch in between versions plese click on "main" button and select "Ver2" from drop down menu.
+> Be awar that version 1.1 "Final" will be live to paly.
 
 
  # ABOUT
@@ -38,13 +41,12 @@ otherwise, simply download or clone the repo and just double click on index.html
 
 # For Developers
 ## Guidelines
- you are absolutely free to edit and modify the code the code of HTML and Java.
+ >you are absolutely free to edit and modify the code the code of HTML and Java.
  > Keep the cookies and session storage objects being kept in the user's browser.
 > You may change any images that you wish, just do not delete the old ones.
 > All pull requests and commits will first have to be approved by a repo moderator.
-## Futures of Version 1.0
->There are no movements involved when pushing the blocks in the game, the blocks change location staticly. However, we are planning to add some animations in the >future to enhance the player's experience.
->Furthermore, as you may have noticed, the highest score always resets to zero every time the page is opened or refreshed. This issue should be taken into >consideration for the upcoming second version of the game.
+## Futures of Version 1.1
+>We have added movements and animations to the game, enhancing the player's experience. Additionally, we have implemented a local storage feature to prevent the highest score from resetting to zero when the page is refreshed or reopened.
 
 
 
@@ -52,6 +54,8 @@ otherwise, simply download or clone the repo and just double click on index.html
 > Testing can be done using Selenium or NUnit.
 > If using NUnit, ensure the program code has Dependency Injection set up in order to test Cotrollers.
 > Any found issues can be submitted under the [Issues tab](https://github.com/MathByte/INFO2300_Assignment3/issues)
+
+> We Found Some Issue in the code that best score and current score are not updating. so We tried to Fix that by assignenin SIue tracker for it 
 
 
 
