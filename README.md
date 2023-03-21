@@ -44,8 +44,8 @@ otherwise, simply download or clone the repo and just double click on index.html
 > All pull requests and commits will first have to be approved by a repo moderator.
 
 ## Futures of Version 1.0
-There are no movements involved when pushing the blocks in the game, the blocks change location staticly. However, we are planning to add some animations in the future to enhance the player's experience.
-Furthermore, as you may have noticed, the highest score always resets to zero every time the page is opened or refreshed. This issue should be taken into consideration for the upcoming second version of the game.
+>There are no movements involved when pushing the blocks in the game, the blocks change location staticly. However, we are planning to add some animations in the >future to enhance the player's experience.
+>Furthermore, as you may have noticed, the highest score always resets to zero every time the page is opened or refreshed. This issue should be taken into >consideration for the upcoming second version of the game.
 ## Testing
 > Testing can be done using Selenium or NUnit.
 > If using NUnit, ensure the program code has Dependency Injection set up in order to test Cotrollers.
