@@ -1,6 +1,6 @@
 # Khachig Kerbabian____INFO2300_Assignment3
 # 2048 puzzle game
-Version V1.0
+Version V1.1
 
 
  # ABOUT
@@ -33,9 +33,6 @@ otherwise, simply download or clone the repo and just double click on index.html
 
 
 
-
-
-
 # For Developers
 ## Guidelines
  you are absolutely free to edit and modify the code the code of HTML and Java.
@@ -46,15 +43,21 @@ otherwise, simply download or clone the repo and just double click on index.html
 ## Futures of Version 1.0
 >There are no movements involved when pushing the blocks in the game, the blocks change location staticly. However, we are planning to add some animations in the >future to enhance the player's experience.
 >Furthermore, as you may have noticed, the highest score always resets to zero every time the page is opened or refreshed. This issue should be taken into >consideration for the upcoming second version of the game.
+
+## Futures of Version 1.1
+>We have added movements and animations to the game, enhancing the player's experience. Additionally, we have implemented a local storage feature to prevent the >highest score from resetting to zero when the page is refreshed or reopened.
+
+
 ## Testing
 > Testing can be done using Selenium or NUnit.
 > If using NUnit, ensure the program code has Dependency Injection set up in order to test Cotrollers.
 > Any found issues can be submitted under the [Issues tab](https://github.com/MathByte/INFO2300_Assignment3/issues)
-
+> We Found Some Issue in the code that best score and current score are not updating. so We tried to Fix that by assignenin SIue tracker for it 
+> The link for that Issue is [issue #1](https://github.com/MathByte/INFO2300_Assignment3/issues/1#issue-1633141946)
 
 
 # WIKI
 > Click [Wiki](https://github.com/MathByte/INFO2300_Assignment3/wiki) to find the Wiki\'s for this repo
 
 ## License
-2048 is licensed under the [GNU license.](https://github.com/MathByte/INFO2300_Assignment3/blob/master/LICENSE.txt)
+>2048 is licensed under the [GNU license.](https://github.com/MathByte/INFO2300_Assignment3/blob/master/LICENSE.txt)
